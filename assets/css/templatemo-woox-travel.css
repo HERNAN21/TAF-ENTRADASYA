@@ -1083,7 +1083,7 @@ Call To Action Style
 */
 
 .call-to-action {
-  margin-top: 120px;
+  /* margin-top: 120px; */
   background-image: url(../images/cta-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -1093,14 +1093,14 @@ Call To Action Style
 
 .call-to-action h2 {
   font-size: 40px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   margin-bottom: 10px;
   text-transform: uppercase;
 }
 
 .call-to-action h4 {
   font-size: 20px;
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-weight: 600;
   letter-spacing: 0.5px;
 }
@@ -1111,8 +1111,8 @@ Call To Action Style
 }
 
 .call-to-action .border-button a {
-  color: #fff;
-  border-color: #fff
+  color: rgb(0, 0, 0);
+  border-color: rgb(0, 0, 0)
 }
 
 .call-to-action .border-button a:hover {

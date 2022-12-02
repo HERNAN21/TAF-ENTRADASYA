@@ -38,14 +38,14 @@ Home Page Style
   }
   
   .search-form #search-form {
-    background-color: #0b1628;
+    background-color: #ffffff;
     border-bottom-left-radius: 23px;
     border-bottom-right-radius: 23px;
     padding: 35px 60px;
   }
   
   .search-form #search-form h4 {
-    color: #fff;
+    color: #0b1628;
     font-size: 20px;
     font-weight: 700;
     margin-top: 10px;
@@ -56,9 +56,9 @@ Home Page Style
     border: none;
     outline: none;
     box-shadow: none;
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #0b1628;
     border-radius: 0px;
-    color: #fff;
+    color: #ffffff;
     font-size: 15px;
     font-weight: 300;
     width: 100%;
@@ -66,16 +66,16 @@ Home Page Style
   }
   
   .search-form #search-form option {
-    background-color: #1ea0ad;
+    background-color: #0b1628;
   }
   
   .search-form #search-form button {
     width: 100%;
     text-align: center;
     font-size: 14px;
-    color: #fff;
+    color: #0b1628;
     background-color: transparent;
-    border: 1px solid #fff;
+    border: 1px solid #0b1628;
     padding: 8px 30px;
     display: inline-block;
     border-radius: 25px;
@@ -88,12 +88,13 @@ Home Page Style
   }
   
   .search-form #search-form button:hover {
-    background-color: #fff;
-    color: #0b1628;
+    background-color: #0b1628;
+    color: #ffffff;
   }
   
   .amazing-deals {
-    margin-top: 120px;
+    /* margin-top: 120px; */
+    background: #fff;
   }
   
   .amazing-deals .item .image {
