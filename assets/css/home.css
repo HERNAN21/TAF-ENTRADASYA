@@ -51,7 +51,7 @@ Home Page Style
     margin-top: 10px;
   }
   
-  .search-form #search-form select {
+  /* .search-form #search-form select {
     background-color: transparent;
     border: none;
     outline: none;
@@ -68,7 +68,7 @@ Home Page Style
   .search-form #search-form option {
     background-color: #0b1628;
   }
-  
+  */
   .search-form #search-form button {
     width: 100%;
     text-align: center;
@@ -90,7 +90,7 @@ Home Page Style
   .search-form #search-form button:hover {
     background-color: #0b1628;
     color: #ffffff;
-  }
+  } 
   
   .amazing-deals {
     /* margin-top: 120px; */
