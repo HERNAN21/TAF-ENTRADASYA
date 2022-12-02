@@ -720,7 +720,8 @@ Banner Style
 
 #section-1 {
   margin-top: 0px;
-  height: 100vh;
+  /* height: 100vh; */
+  height: 5vh;
   min-height: 700px;
   color: #fff;
   background-color: #222;
